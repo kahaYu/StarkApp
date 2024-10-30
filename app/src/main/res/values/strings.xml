@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StarkApp</string>
+
+    <!-- Main Screen assets -->
+    <string name="go_to_webview_button_label">Go to WebView</string>
+
+    <!-- Screen titles -->
+    <string name="main_screen">Main Screen</string>
+    <string name="web_view_screen">WebView Screen</string>
+
+    <!-- Accessibility tags -->
+    <string name="back_button_a11y_tag">Back Button</string>
+
+</resources>
